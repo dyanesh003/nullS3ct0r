@@ -1,0 +1,8 @@
+The admin believes the application is secure because passwords are stored using the MD5 hashing algorithm. However, there's a critical mistake in the way the application handles authentication. Can you login as admin?
+
+Default Username: "user"
+Default Password: "user"
+
+Hint: Sometimes, even strong-looking hashes can be tricked by weak comparisons!
+
+Link:- http://64.227.191.210:5347/
