@@ -1,1 +1,3 @@
 Description: What appears to be a simple image holds a hidden message. waiting to be uncovered.Your task is to extract the concealed information and reveal the truth behind the image. 
+
+flag format: nullS3ct0r{}
