@@ -1,4 +1,4 @@
-The admin of this application is stuck in the '70s and is a huge fan of the song "We Will Rock You." Unfortunately, his security knowledge is as outdated as his music taste. He’s confident in his app's "rock-solid" security and has challenged you to break in.
+The admin of this application is stuck in the '70s and is a huge fan of the song "We Will Rock You" and eats nothing but cookies all day. Unfortunately, his security knowledge is as outdated as his music taste. He’s confident in his app's "rock-solid" security and has challenged you to break in.
 
 Link: http://159.89.164.207:7865
 
