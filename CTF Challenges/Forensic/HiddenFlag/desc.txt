@@ -1,0 +1,5 @@
+The flag is hidden in plain sight.
+Flag format: flag{fl4g_g0es_h3re}
+
+
+Link:- https://docs.google.com/spreadsheets/d/1I3ktwkfPy1jlm7e43-VQAVHdc6fdXdFDUxk7XrSTACY/edit?gid=0#gid=0
