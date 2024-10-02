@@ -1,0 +1,7 @@
+I have built a web application that gives you a personalized fortune every time you visit. But here's the twist—rumor has it that this simple fortune-telling site is shows you something far more valuable.
+
+
+Link: http://139.59.13.209:5537/
+
+
+Note: No bruteforcing is necessary on the web application. 
