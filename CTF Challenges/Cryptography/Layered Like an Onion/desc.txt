@@ -1,3 +1,5 @@
 Description: Ever tried peeling an onion? Each layer brings you closer to the core, but this one’s a bit trickier—it’s encoded in so many layers of bases that you might just shed a tear or two! Can you peel back each layer and get to the heart of the flag, or will this onion keep its secrets locked away? Grab some tissues, you’re going to need them!
        
- Cipher:GVXF2LLTLJQS4LTFOQSSYXSQFRDWQ434LQVFQVDCEVMXAWDTKVIDYSZRLJIGIYZYGQTFCSSYOJVC2O3JEZ4GM2ZNJ5IDURTUEZZEIW2FLZPCWYSZFJREAKSJKFKTWTDMHQSA====
+Cipher:GVXF2LLTLJQS4LTFOQSSYXSQFRDWQ434LQVFQVDCEVMXAWDTKVIDYSZRLJIGIYZYGQTFCSSYOJVC2O3JEZ4GM2ZNJ5IDURTUEZZEIW2FLZPCWYSZFJREAKSJKFKTWTDMHQSA====
+
+Flag format: nullS3ct0r{}
