@@ -1,0 +1,2 @@
+A ciphertext has been intercepted, shrouded in secrecy. Use the publickey to uncover its secrets.
+The great Sage may just hold the way to finding these hidden values. Can you unlock the mystery and reveal the secret within?
