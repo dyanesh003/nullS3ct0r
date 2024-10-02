@@ -1,0 +1,1 @@
+Engineers love coming up with random algorithms. Sometimes they're not the most efficient algorithms, but they're good at generating large values. However, we've discovered a bug in this program and as a result, we keep getting a floating point exception when we run it! We no longer have the original source code, but maybe there's a way to see what values this code produces?
