@@ -1,0 +1,3 @@
+Description: We found a flash drive that we think CyberCorp was using to transfer secret documents. Unfortunately, they deleted all traces of the files on the disk (or so they thought). Can you recover the name of the folder they deleted?
+
+Flag format: MetaCTF{}
