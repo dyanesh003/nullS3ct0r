@@ -1,0 +1,6 @@
+
+The legendary Donald Knuth has uncovered a cryptic string, hidden deep within his research. This string, encoded and encrypted, holds the key to a secret flag.
+Your mission is to decode and decrypt this enigmatic string:
+
+NOTE: To aid you on your quest, note that #some_fun returns a value based on the notation a↑↑b
+
