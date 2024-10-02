@@ -1,0 +1,3 @@
+One of our members has been spearphished, and ransomware has infected their Linux server! Although this piece of ransomware is relatively ineffective, as it can only encrypt small files, one of their important text documents is now encrypted! Furthermore, when the corporate reverse engineers tried to analyze the malware, they found it to be obfuscated and behaving strangely during analysis.
+
+Can you figure out what this ransomware is doing to encrypt the files and find a way to decrypt this text document?
