@@ -1,0 +1,4 @@
+Challenge - Same Same but Different
+Difficulty - Easy
+
+The two primes in RSA are selected to be equally big such that they can't be factorized easily.... Or can they?

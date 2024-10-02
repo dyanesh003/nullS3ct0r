@@ -1,0 +1,5 @@
+Challenge - I know nothing
+Difficulty - medium
+
+You aren't given everything, but just what is sufficient to find everything :)
+PS : Two parts to the flag, first in the PT, and second as the IV
