@@ -1,0 +1,1 @@
+I've recently discovered a binary that was installed on my linux system, and I think it may be doing something malicious. Unfortunately, it is so obfuscated, and when I ran it in a sandbox, there was no output. Could you take a look at it and figure out what it is doing?
